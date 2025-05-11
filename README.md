@@ -22,7 +22,7 @@ Wireframes can be categorized into two main types:
 
 ### 🔍 What Type of Wireframe is Here??
 
-For this project, we will focus on creating low-fidelity wireframes to outline the basic structure and flow of the interface. High-fidelity prototypes may be developed later to represent more polished, interactive designs.
+For this project, This is a high-fidelity wireframs that look like the expected final product design.
 
 ## 🛠️ Wireframing Tools
 
